@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://iokort.com">
-  <img src="https://raw.githubusercontent.com/iokort/.github/main/assets/iokort-banner.svg" alt="ioKort — Software Engineering & Digital Products" width="100%" />
-</a>
+<img src="https://github.com/iokort.png" width="112" height="112" alt="ioKort logo" />
 
-### ONE DEV COMPANY
+# ioKort
 
-**Independent software engineering · Mobile, web & backend · Built with purpose**
+**ONE DEV COMPANY**
 
-[Website](https://iokort.com) · [Repositories](https://github.com/orgs/iokort/repositories?q=visibility%3Apublic) · [Selected work](https://github.com/iokort/Follow-Motors)
+Independent software engineering · Mobile, web & backend · Built with purpose
+
+[Website](https://iokort.com) · [GitHub organization](https://github.com/iokort) · [Follow Motors](https://github.com/iokort/Follow-Motors)
 
 </div>
 
@@ -16,39 +16,40 @@
 
 ## Software that solves real problems
 
-**ioKort** is an independent software development brand building purposeful digital products. We create applications, services and interfaces with an emphasis on **performance, maintainability, accessibility and clean user experiences**.
+**ioKort** is an independent software development brand focused on useful digital products. We design and build applications, services and interfaces with an emphasis on **performance, maintainability, accessibility and straightforward engineering**.
 
-We prefer working solutions over unnecessary complexity, architecture that serves real requirements and improvements that can be verified.
+Our approach favors working solutions over unnecessary complexity, deliberate architecture over boilerplate and iteration guided by real requirements.
 
-## What we build
+### What we build
 
-| Area | Focus |
+| Discipline | Focus |
 |:--|:--|
 | **Mobile applications** | Multiplatform experiences with Flutter and Dart |
-| **APIs & backend** | Services, business logic and integrations with C# and .NET |
-| **Web platforms** | Responsive applications with Angular, TypeScript and JavaScript |
-| **Data & infrastructure** | MySQL, automation, GitHub workflows and deployments |
+| **Backend systems** | REST APIs, business logic and integrations with C# and .NET |
+| **Web platforms** | Responsive experiences using Angular, JavaScript and TypeScript |
+| **Data & infrastructure** | MySQL, automation, GitHub workflows and deployment |
 
-## Selected public work
+### Selected public work
 
-### [Follow Motors](https://github.com/iokort/Follow-Motors)
+**[Follow Motors](https://github.com/iokort/Follow-Motors)** — An application engineering project connecting web interfaces, backend services and data management.
 
-An application engineering project connecting web interfaces, backend services and structured data management.
+Other work may remain private while under development or subject to institutional and client requirements.
 
-Some projects remain private while in development or because of institutional and client requirements.
+### Engineering principles
 
-## Engineering principles
+**Build what matters.** Prioritize the user's actual problem.
 
-- **Build what matters.** Understand the real problem before introducing complexity.
-- **Keep responsibilities clear.** Prefer focused, maintainable changes and deliberate architecture.
-- **Respect the platform.** Use native capabilities when they meet the requirements.
-- **Deliver verifiable work.** Separate implementation, testing and release readiness.
+**Keep it maintainable.** Make changes with clear responsibility and limited scope.
+
+**Respect the platform.** Validate native capabilities before introducing dependencies.
+
+**Deliver verifiable work.** Distinguish implementation, testing and release readiness.
 
 ---
 
 <div align="center">
 
-**[Explore ioKort](https://iokort.com)** · **[Browse public repositories](https://github.com/orgs/iokort/repositories?q=visibility%3Apublic)**
+**Explore [iokort.com](https://iokort.com)** · **Browse [public repositories](https://github.com/orgs/iokort/repositories?q=visibility%3Apublic)**
 
 <sub>© 2026 ioKort · Software built with purpose.</sub>
 
